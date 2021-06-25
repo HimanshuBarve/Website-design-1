@@ -1,0 +1,5 @@
+.grid{
+display: flex;
+flex-wrap:flex
+}
+img{border:5px solid black; border-radius:50px}
